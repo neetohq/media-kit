@@ -1,1 +1,1 @@
-# neeto medit kit
+# neeto media kit
