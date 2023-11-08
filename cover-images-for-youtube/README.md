@@ -1,7 +1,13 @@
-# Cover image for youtube
+# Cover image for YouTube videos
 
-1 - Youtube thumbnail: https://www.figma.com/file/BgLGNk7Z1neBisaSbDCuo3/Blog-Template?type=design&node-id=1126-4152&mode=design&t=ma6MTu1WPtT6VLWP-4 
+### Standard cover image
 
-2 - Youtube Thumbnails - for bigger titles: https://www.figma.com/file/BgLGNk7Z1neBisaSbDCuo3/Blog-Template?type=design&node-id=1182-5156&mode=design&t=ma6MTu1WPtT6VLWP-4
+https://www.figma.com/file/BgLGNk7Z1neBisaSbDCuo3/Blog-Template?type=design&node-id=1126-4152&mode=design&t=ma6MTu1WPtT6VLWP-4 
 
-Note: if the content is more then use the second one else use the first one.
+Use this style for cover image when the text is short.
+
+### Cover image for longer text
+
+https://www.figma.com/file/BgLGNk7Z1neBisaSbDCuo3/Blog-Template?type=design&node-id=1182-5156&mode=design&t=ma6MTu1WPtT6VLWP-4
+
+Use this style when the text is longer. In this case the font size is smaller to accommodate more text.
