@@ -1,6 +1,6 @@
-# neeto media kit
+# Cover image for youtube
 
-Please feel free to look around the media kit of [neeto](https://neeto.com).
+1 - Youtube thumbnail: https://www.figma.com/file/BgLGNk7Z1neBisaSbDCuo3/Blog-Template?type=design&node-id=1126-4152&mode=design&t=ma6MTu1WPtT6VLWP-4 
+2 - Youtube Thumbnails - for bigger titles: https://www.figma.com/file/BgLGNk7Z1neBisaSbDCuo3/Blog-Template?type=design&node-id=1182-5156&mode=design&t=ma6MTu1WPtT6VLWP-4
 
-We have only one small ask. Please don't represent neeto's brand as yours.
-If you have any questions about how to use neeto's media kit then please contact us at support@neeto.com.
+Note: if the content is more then use the second one else use the first one.
