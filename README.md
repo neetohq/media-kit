@@ -29,6 +29,7 @@ https://www.figma.com/file/eDB4XknwTDutQHcmHI3fGs/neeto-brand-assets?type=design
 #### Product logos
 
 New: https://www.figma.com/file/0CT0d4xJ4p1klA4QubgZXd/neeto-brand-assets?type=design&node-id=5021-2400&mode=design
+
 Old: https://www.figma.com/file/eDB4XknwTDutQHcmHI3fGs/neeto-brand-assets?type=design&node-id=2-656&mode=design&t=MaMxbctAArm7DWFc-4
 
 We have only one small ask. Please don't represent neeto's brand as yours.
