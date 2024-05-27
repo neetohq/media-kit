@@ -24,13 +24,11 @@ https://www.youtube.com/watch?v=BYCqDQl9DhIs
 
 #### neeto logo
 
-https://www.figma.com/file/eDB4XknwTDutQHcmHI3fGs/neeto-brand-assets?type=design&node-id=2-2336&mode=design&t=MaMxbctAArm7DWFc-4 
+https://chirag-shah.neetorecord.com/watch/ba1037cc-5811-4917-b78e-5364f468cb2f
 
 #### Product logos
 
-New: https://www.figma.com/file/0CT0d4xJ4p1klA4QubgZXd/neeto-brand-assets?type=design&node-id=5021-2400&mode=design
-
-Old: https://www.figma.com/file/eDB4XknwTDutQHcmHI3fGs/neeto-brand-assets?type=design&node-id=2-656&mode=design&t=MaMxbctAArm7DWFc-4
+New: https://www.figma.com/design/Dpwu6N0rAvhAF23veWpGYR/Brand-Design-V3?node-id=318-34538&t=vrJ3cR8oKu1RMES1-4
 
 We have only one small ask. Please don't represent neeto's brand as yours.
 If you have any questions about how to use neeto's media kit then please contact us at support@neeto.com.
