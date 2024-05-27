@@ -24,7 +24,8 @@ https://www.youtube.com/watch?v=BYCqDQl9DhIs
 
 #### neeto logo
 
-https://chirag-shah.neetorecord.com/watch/ba1037cc-5811-4917-b78e-5364f468cb2f
+https://www.figma.com/design/Dpwu6N0rAvhAF23veWpGYR/Brand-Design-V3?node-id=318-34522&t=vrJ3cR8oKu1RMES1-4
+
 
 #### Product logos
 
