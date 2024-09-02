@@ -1,6 +1,6 @@
-# neeto media kit
+# Neeto media kit
 
-Please feel free to look around the media kit of [neeto](https://neeto.com).
+Please feel free to look around the media kit of [Neeto](https://neeto.com).
 
 # Cover image for YouTube videos
 
@@ -20,9 +20,9 @@ Use this style when the text is longer. In this case the font size is smaller to
 
 https://www.youtube.com/watch?v=BYCqDQl9DhIs
 
-# neeto brand assets
+# Neeto brand assets
 
-#### neeto logo
+#### Neeto logo
 
 https://www.figma.com/design/Dpwu6N0rAvhAF23veWpGYR/Brand-Design-V3?node-id=318-34522&t=vrJ3cR8oKu1RMES1-4
 
@@ -32,4 +32,4 @@ https://www.figma.com/design/Dpwu6N0rAvhAF23veWpGYR/Brand-Design-V3?node-id=318-
 New: https://www.figma.com/design/Dpwu6N0rAvhAF23veWpGYR/Brand-Design-V3?node-id=318-34538&t=vrJ3cR8oKu1RMES1-4
 
 We have only one small ask. Please don't represent neeto's brand as yours.
-If you have any questions about how to use neeto's media kit then please contact us at support@neeto.com.
+If you have any questions about how to use nNeeto's media kit then please contact us at support@neeto.com.
